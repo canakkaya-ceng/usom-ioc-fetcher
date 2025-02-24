@@ -19,7 +19,8 @@ requests library
 
 First, clone the project repository on GitHub to your computer.
 
-git clone https://github.com/canakkaya-ceng/usom-ioc-fetcher.git 
+git clone https://github.com/canakkaya-ceng/usom-ioc-fetcher.git
+
 cd usom-ioc-fetcher
 
 Install the necessary Python libraries:
