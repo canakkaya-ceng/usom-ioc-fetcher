@@ -37,4 +37,4 @@ Tüm IoC verileri için: output_ioc.json
 Tarih filtresi uygulanmış IoC verileri için: filtered_output_ioc.json
 Bu dosya yollarını değiştirmek için kod içerisindeki ilgili kısımları düzenleyebilirsiniz.
 
-# Lisans: Bu proje MIT lisansı ile lisanslanmıştır. İstediğiniz gibi kullanabilir, değiştirebilir ve dağıtabilirsiniz. Detaylar için LICENSE dosyasını inceleyebilirsiniz.
+Lisans: Bu proje MIT lisansı ile lisanslanmıştır. İstediğiniz gibi kullanabilir, değiştirebilir ve dağıtabilirsiniz. Detaylar için LICENSE dosyasını inceleyebilirsiniz.
